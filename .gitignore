@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Claude Code (not ready for git tracking yet)
+.claude/
+
+# Package manager lockfile
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
